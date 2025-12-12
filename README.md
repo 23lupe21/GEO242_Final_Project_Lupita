@@ -50,7 +50,7 @@ This is the Jupyter Notebook where I did the analysis.
 ### GEO242_Lupita_Final_Project_Write_Up.pdf
 This is my report.
 
-## README.md 
+### README.md 
 That is this file. It has a bunch of information and descriptions of what is here. 
 
 ### Seismicity_Map.sh
