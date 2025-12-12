@@ -30,7 +30,7 @@ This folder contians the figures I generated with my code. I didn't use all of t
 This was something for the bibliography, the bibliogrpahy style 
 
 #### main.tex
-This is the tex file for my report
+This is the tex file for my report. This was done using Overleaf
 
 #### papers.bib
 This contians the info for the papers for the bibliopgraphy   
